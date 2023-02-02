@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trialcognito-dev-235912-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734858069360:role/amplify-trialcognito-dev-235912-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734858069360:role/amplify-trialcognito-dev-235912-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-trialcognito-dev-235912-deployment",
+      "UnauthRoleName": "amplify-trialcognito-dev-235912-unauthRole",
+      "StackName": "amplify-trialcognito-dev-235912",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:734858069360:stack/amplify-trialcognito-dev-235912/2853bb90-a30a-11ed-b49d-0a4bcc54bd59",
+      "AmplifyAppId": "d15g662l4owf31"
+    },
+    "categories": {
+      "auth": {
+        "trialcognito6497409e": {}
+      }
+    }
+  }
+}
